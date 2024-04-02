@@ -19,7 +19,7 @@
 </p>
 
 
-- 🌱 Actualmente estoy aprendiendo `Desarrollo Web` y otros `lenguajes de programación`
+- 🌱 Actualmente estoy aprendiendo `Desarrollo Web` y otros `Lenguajes de Programación`
 
 - 📫 Para comunicarte conmigo me podés escribir a: **joseluissmedinar@gmail.com**
   
