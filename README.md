@@ -19,13 +19,17 @@
 </p>
 
 
-- 🌱 Actualmente estoy aprendiendo `Desarrollo Web` y otros `Lenguajes de Programación`
+- 🌱 Actualmente estoy enfocado en el aprendizaje de `Desarrollo Web` y la ampliación de mis habilidades en otros `Lenguajes de Programación`.
 
-- 📫 Para comunicarte conmigo me podés escribir a: **joseluissmedinar@gmail.com**
+<!-- - 📫 Para comunicarte conmigo me podés escribir a: **joseluissmedinar@gmail.com** -->
   
-- :nerd_face:  Siempre `aprendiendo cosas nuevas`
+- :nerd_face:  Siempre en busca de `conocimientos` y `crecimiento profesional`.
 
-- ⚡ Dato curioso: Mi pasatiempo es ser `Dee Jay` 🎵 en `eventos familiares`.
+- :computer: Me apasiona la tecnología y disfruto explorando nuevas `herramientas` y `tecnologías emergentes`.
+
+- :technologist: Tengo un enfoque meticuloso en la resolución de problemas y disfruto enfrentando desafíos creativos en el desarrollo de software.
+
+- ⚡ Dato curioso: En mi tiempo libre me gusta ser `Dee Jay` 🎵 en `eventos familiares`, compartiendo mi pasión por la música 🎵 con amigos y seres queridos.
 
 <br>
 
