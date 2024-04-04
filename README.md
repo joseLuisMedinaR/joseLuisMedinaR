@@ -11,7 +11,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Quién Soy ?**
+## <picture><img src = "https://github.com/joseLuisMedinaR/joseLuisMedinaR/blob/main/quien_soy.gif" width = 50px></picture> **Quién Soy ?**
+
 <br>
 
 <p>  
